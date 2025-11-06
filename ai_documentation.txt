@@ -1,0 +1,4 @@
+In this project, I used AI for debugging, writing tests, and working with unfamiliar data types such as the makefile.
+
+https://www.perplexity.ai/search/what-tests-can-i-write-for-thi-gaz3CBlvQHmC8KJz.glurQ#0
+https://claude.ai/share/5aafd059-b91a-4689-8f9b-50fba103643f
